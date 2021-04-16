@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="48.954731">
+    <testcase classname="login the adactinhotelapp" name="adactin log page" time="48.954731">
+        <system-out><![CDATA[Given user have login the page..............................................passed
+When user enter the username and password...................................passed
+And user have click the login...............................................passed
+And user select Location,hotels,Room types,number of rooms,Check in Date,Check out date,adults per room..passed
+And user is click search button.............................................passed
+And user is click search and continue.......................................passed
+And user enter the "green","tech","21/23 saidapet,chennai-33","1234567891012345","American Express","April","2022","1234"..passed
+Then user is click the book now.............................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
